@@ -2,7 +2,7 @@
 
 ## 1- mini store
 
-[mini store](https://www.ahmedspurs1.netlify.app)
+[mini store](https://ahmedspurs1.netlify.app/#!/app/home)
 
 ## 2-flwars store
 
