@@ -4,7 +4,7 @@
 
 [mini store](https://ahmedspurs1.netlify.app/#!/app/home)
 
-## 2-flwars store
+## 2- flowars store
 
 [flowars store](https://ahmedspurs3.netlify.app/#!/)
 
